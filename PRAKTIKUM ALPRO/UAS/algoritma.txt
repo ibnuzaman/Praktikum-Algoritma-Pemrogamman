@@ -1,0 +1,36 @@
+prosedur :
+    input()
+deklarasi :
+    n,i : integer
+deskripsi :
+    read (n)
+    for i <= 1 to n do
+        read (nim[i],kelas,[i],)
+
+    endfor
+
+prosedur:
+    proses()
+deklarasi:
+    i,j : integer
+    cari : string
+deskripsi :
+    for i <= to n do
+        for j <= to n do
+            if nilai[i] < nilai [j]
+            nim[i].swap (nim[j])
+				kelas[i].swap (kelas[j])
+				nama[i].swap (nama[j])
+				status[i].swap (status[j])
+				tmp<=nilai[i]
+				nilai[i]<=nilai[j]
+				nilai[j]<=tmp
+            end if
+        end for
+    end for
+
+    for i <= to n do
+        read (nim[i],kelas[i],nama[i],nilai[i],status[i])
+        if (status[i] == cari)
+            write (nim[i],kelas[i],nama[i],nilai[i],status[i])
+        end if

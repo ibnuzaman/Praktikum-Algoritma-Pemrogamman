@@ -1,0 +1,20 @@
+RUMAH MAKAN SEDERHANA
+========================
+
+Menu Makanan dan Harga : 
+
+1. Ayam Geprek  : Rp21.000
+2. Ayam Goreng  : Rp17.000
+3. Udang Goreng : Rp19.000
+4. Cumi Goreng  : Rp20.000
+5. Ayam Bakar   : Rp25.000
+======================
+menu yang di pesan: 
+1. Ayam Geprek : Rp21.000
+================================
+Jarak dari Restoran ke Rumah Anda adalah 2 Kilometer.
+
+================================
+
+Total Harga : 36000
+Uang anda : 50000 Kembalian : 14000

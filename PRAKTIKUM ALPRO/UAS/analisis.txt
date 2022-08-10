@@ -1,0 +1,4 @@
+ide :
+menggunakakan bubble sort yang didalamnya terdapat if kondisional untuk mengurutkan nilai dari terbesar ke terkecil (descending)
+menggunakan inputan keyboard untuk searchingnya
+di class private terdapat untuk menyimpanan tipe data
